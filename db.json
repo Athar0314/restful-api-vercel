@@ -1,11 +1,11 @@
 {
   "users": [
     {
-      "id": "athar",
-      "name": "Athar Hossain",
+      "id": "admin",
+      "name": "Admin Profile",
       "email": "a3@pwc.com",
       "gender": "male",
-      "password": "Athar@123",
+      "password": "Admin@123",
       "role": "admin",
       "isActive": true,
       "imgurl": "https://static.vecteezy.com/system/resources/previews/009/636/683/non_2x/admin-3d-illustration-icon-png.png"
